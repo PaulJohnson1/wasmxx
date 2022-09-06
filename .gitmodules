@@ -1,3 +1,6 @@
 [submodule "ThirdParty/std2"]
 	path = ThirdParty/std2
 	url = https://github.com/Craabby/std
+[submodule "ThirdParty/BinaryCoderxx"]
+	path = ThirdParty/BinaryCoderxx
+	url = https://github.com/PaulJohnson1/BinaryCoderxx
